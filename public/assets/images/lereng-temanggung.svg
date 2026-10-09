@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" fill="none">
+  <defs>
+    <pattern id="paper" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="1" cy="3" r=".7" fill="#8a4b2a" opacity=".12"/></pattern>
+    <pattern id="crops" width="48" height="48" patternUnits="userSpaceOnUse" patternTransform="rotate(-12)"><path d="M24 39V14M24 26Q5 26 10 9Q25 10 24 26M24 32Q42 29 39 16Q24 18 24 32" stroke="#efe3bf" stroke-width="1.6" opacity=".35"/></pattern>
+  </defs>
+  <path fill="#e5d7b9" d="M0 0h1000v760H0z"/>
+  <circle cx="731" cy="164" r="83" fill="#bc6b3b"/>
+  <circle cx="731" cy="164" r="100" stroke="#bc6b3b" opacity=".25"/>
+  <path d="M-40 385 236 87 499 378 647 213 1030 444v246H-40Z" fill="#b3b194"/>
+  <path d="m77 373 159-286 52 154 83 85-103-44-49 48-20-110Z" fill="#828c6a"/>
+  <path d="m473 416 174-203 183 201-144-96-36 13-26-30Z" fill="#8d9671"/>
+  <path d="M-20 435Q225 248 467 406T1024 390v391H-20Z" fill="#697c51"/>
+  <path d="M-30 470Q268 331 552 478T1030 437M-30 507Q272 368 556 516T1030 475" stroke="#c0bc83" stroke-width="7"/>
+  <path d="M-10 559Q342 433 604 552t425-65v302H-10Z" fill="#465d40"/>
+  <path d="M-10 596Q345 479 605 598t425-66M-10 637Q347 520 605 639t425-66" stroke="#9caa6a" stroke-width="8"/>
+  <path d="M-10 707Q286 562 529 679t480-29v141H-10Z" fill="#304b38"/>
+  <path d="M0 400Q250 271 479 431t521-41v370H0Z" fill="url(#crops)"/>
+  <path d="M747 760q-200-148-66-212t-77-131" stroke="#d7c29a" stroke-width="17"/>
+  <path d="m619 611 102-50 88 52-91 59Z" fill="#d8bc81"/>
+  <path d="M666 571v-50h74v50l-37 22Z" fill="#eddfbb"/>
+  <path d="m644 522 60-43 59 43Z" fill="#8a4b2a"/>
+  <path d="M698 588v-40h13v40" fill="#614731"/>
+  <path d="M810 604v-70m-28 8q27-49 54 0-26 24-54 0" fill="#304b38" stroke="#304b38" stroke-width="6"/>
+  <path d="M0 0h1000v760H0z" fill="url(#paper)"/>
+  <path d="M20 20h960v720H20z" stroke="#f3ead7" opacity=".4"/>
+</svg>
